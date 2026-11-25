@@ -5,3 +5,5 @@ venv/
 .venv/
 data/BasicCompanyData*.csv
 data/BasicCompanyData*.zip
+
+data/BasicCompanyData*

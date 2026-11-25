@@ -1,0 +1,251 @@
+CompanyNumber,CompanyName,PostCode,Is_Northern_Ireland,Source,Candidate_VAT,HMRC_Status,Notes
+16000526,THE PRESS HOUSE EXE LTD,EX2 4AN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14373639,QUANTCOG LTD.,PE28 2AN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07068024,CAPITAL CONTRACT PLUMBING LIMITED,S25 1YL,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12037043,ESCAPE BEAUTY AND WELLNESS LTD,L15 5AN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11162289,AY CONSULTANCY LTD,CF14 4NR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15690424,AUSTIN BANDA PROPERTIES LTD,M6 6LS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09020915,ELVATECH LTD,BS1 3QY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17184541,TPC CLEANING LTD,DE6 2JR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+OC451367,A LA MANO - L'ECOLE DES CREATIFS LLP,WC1R 4BU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15854402,WITH KIN LIMITED,GL5 1RN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16692303,BIG BARN MEDIA GROUP LIMITED,SN1 4AN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+03968297,ELDAN DEVELOPMENTS LIMITED,LE19 1WP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13780490,NK STORES LIMITED,CV6 4AD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+03934283,LEASING.COM GROUP LTD,SK7 5DB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17032721,YULIN LTD,CV34 6BT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08480764,CAPSULAR MEDIA LTD,EC2Y 8BP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+05869498,THE CRICKETERS FREEHOLD LIMITED,M3 4JU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13414295,TIC AND TOW RECOVERY LTD,NR29 5LZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10784651,PROPERTIES WORK LIMITED,SR4 6TA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14354994,MECCANICO DEVELOPMENTS LTD,DA18 4AJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11927854,CRH CARPENTRY & BUILDING LIMITED,OX14 4EX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+03266507,PROXCOM LIMITED,BD1 4DE,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10729838,A DELE FOOD & WINE LTD,SK9 7PL,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17454251,SUMARA HOUSE LTD,MK17 7AD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08839214,CROWN CARE V LIMITED,NE1 6AQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16669889,GW BUILDING CONSULTANCY LTD,RG10 0RQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+05050422,GOLOK CONSTRUCTION LIMITED,HA7 2HJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14382242,FORTRESS CAPITAL LTD,W1K 7FQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+NI068506,ABAC (NI) LTD,BT78 1BZ,True,EORI Registry (UK/EU),,,"Northern Ireland (BT postcode) - XI EORI exists if trading with EU, but EU EOS portal only supports reverse lookup (by EORI number, not company name)."
+16931574,OFF THE GRID BEAUTY STUDIO LTD,WC2E 7NU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12452573,SUSSEX REAL ESTATE LIMITED,RH15 0BW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15363632,8 NILE HOUSE LTD,N1 7NJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17035160,ALLITO DEVELOPMENTS LTD,PO16 8RP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12677013,ASW BRICKWORK LTD,OX11 6DJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09864774,POST APPAREL LIMITED,M20 4PQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14210696,BEN AND CHRIS LIMITED,RM12 4NG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08525365,UNITED SOURCING LTD,CM16 4AG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09112577,HOORAY MACHINERY LIMITED,HR5 3DJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14549835,M C SHOTS LTD,NE38 8FJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16466474,COLLINS RESIDENTIAL SUPPORT LTD,ME14 5SF,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08320064,LOCKING PHARMACY LTD,BS23 1NF,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16607796,ABSTERGO REAL ESTATE LIMITED,W1W 5PF,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16160225,URGENTIS LTD,WC2H 9JQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13781081,TLR1 (ALLEN HOUSE) LIMITED,W1U 1QY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08635558,GRANGE ASSOCIATES (UK) LTD,LE17 4AY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07486338,PIER HEAD TRANSFORMATIONAL SOLUTIONS LTD,NW6 2EG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SO306307,ACTIVE GP FP LLP,EH3 9WJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+04750086,PROVINCIAL GARAGE (STARBECK) LIMITED,HG1 4QE,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+04517071,A2B TAXIS (TRURO) LIMITED,TR1 2NA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07354344,NEW VISION SIGNS & GRAPHICS LIMITED,BD2 1QJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17449590,ROCHDALE MOT & AUTOCARE LTD,M28 1GP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10388322,SILKS ESTATES (YORKSHIRE) LTD,LS12 2EJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17050952,CARDIFF J4L LTD,CF24 3RQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10466856,1ST AIRPORT TAXIS LIMITED,LU1 2SJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13814317,FLMG-MEDICAL LTD,WS3 1FX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08962441,NME DETAILING LIMITED,LS20 8AB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+00601292,H.P. COOPER (FARMS) LIMITED,CO9 3BL,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17240730,MAINMAN LIMITED,HU13 0RG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16672213,THE NEXUS ENGINE LTD,N1 7GU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC352018,HUTCHESON FINANCIAL SERVICES LIMITED,IV12 4AU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14246301,PLEO HEALTHCARE LTD,CV1 2TE,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17222181,CURLEW ADVISORY LIMITED,ST10 3JR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+NI602745,MC BRIDE RETAIL SCAFFOG LIMITED,BT79 7ET,True,EORI Registry (UK/EU),,,"Northern Ireland (BT postcode) - XI EORI exists if trading with EU, but EU EOS portal only supports reverse lookup (by EORI number, not company name)."
+17537528,MITHRIL GROUP LTD,TN2 4DL,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+02966601,ARBLASTER & CLARKE WINE TOURS LIMITED,GL50 1DW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17345593,CNJ TOOTING LTD,W10 5QZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15620805,CODE LOGISTIC TECH LTD,DL5 7PX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16847523,D EDWARDS CONSULTANCY LIMITED,CV1 2NT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13392017,JUST FRESH JUICE LTD,SW1V 1DW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08882553,TM LEISURE (MANCHESTER) LTD,WA14 2UW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16634265,BETTER HOLD CO LIMITED,BH8 8AQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+04692299,21 HANSLER ROAD LIMITED,SE21 7EG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16275957,MJ AUTOS LONDON LTD,E6 1QF,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+05645331,KINGSTEIGNTON SPRINGWATER LIMITED,TQ5 8LZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15888189,LEHOPE PROFESSIONALS LIMITED,CM17 0GP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15620676,PEERMENT LTD,LL31 9LS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14022431,IGOR MORITZ LIMITED,E8 2NH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09329472,DAWN SOLICITORS LTD,SL1 1EL,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08238972,ANAGAG LTD,RG40 1XU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08948738,STONEGATE PUB COMPANY FINANCING LIMITED,B90 4SJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16983538,KIN ADVISORY LTD,SG12 9LR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11966668,HIGHBAR FITNESS LIMITED,TN13 3GG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16644939,PLSR MEDIA LTD,W1T 6EB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC685785,LCM CONSULTANTS LIMITED,G75 8GS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+05078503,PERUGIAN LIMITED,TQ7 1LL,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16857079,STEVENS GROUP HOLDINGS LIMITED,CB6 2AP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+NI735933,BABIL RESTAURANT LTD,BT48 6EB,True,EORI Registry (UK/EU),,,"Northern Ireland (BT postcode) - XI EORI exists if trading with EU, but EU EOS portal only supports reverse lookup (by EORI number, not company name)."
+17000665,STRATICORE LTD,BS9 3BY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13538123,TRADE SECRET STOCK CARE LTD,ST17 0XA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14664573,P&T ESTATES LIMITED,L15 5AN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11245745,ACCESS ATTICS LTD,L22 8QG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+04782350,J HAWORTH LIMITED,BB7 3LY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13476720,LSKEFI LIMITED,GU3 1LR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+05393073,ARQIVA NO 10 LIMITED,SO21 2QA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13770509,UNIQUEFIT LIMITED,TQ1 4DE,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+06432108,MITSUI E&P MOZAMBIQUE AREA 1 LIMITED,EC2V 7EH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13300581,PROVANCE PROPERTY LTD,N1 7GU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13098834,BERWICK PROPERTIES LIMITED,NW11 0PU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11506874,EDWARDIAN RESIDENTIALS LIMITED,RM6 6SA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16446594,TNS CONSENTRA LTD,EC1V 2NX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16590673,JFFAM LIMITED,WN7 4AA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15240297,CAMBRIDGE CARDIOVASCULAR CLINIC LTD,N1 7GU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17011731,A NEW DAWN CELEBRATIONS LIMITED,MK3 7DY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+01073861,NIGHTINGALE PRESS LIMITED,SG6 4QT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15623719,PRIORY 26 LTD,HA4 9HH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14152769,UTD DEVELOPMENTS LIMITED,M50 1RF,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15239013,MARGATE PROPERTIES LIMITED,RM17 6EQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17080702,KIROOS LTD,BB9 7AU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11520210,L R HAULAGE LIMITED,EN5 3HS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13637234,YOUSTER INSTALLATIONS LTD,B73 5JQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10922899,LSAS PROPERTIES LIMITED,TF11 9LZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+05354108,USEGIS LIMITED,EX14 4RE,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16656243,HARKLI LTD,EC2A 4NE,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14410126,L.E.H HOLDINGS LTD.,OX26 6AD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17100804,JIMMYZ BARBERS LTD,SL1 6EA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15859435,NORTHUMBERLAND SAFETY SOLUTIONS LTD,NE61 5SR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+01950105,01950105 LIMITED,CH45 9JH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16550639,BICE & BIRCH LIMITED,EN5 2SS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12722874,ELLROSE ASSETS LIMITED,CO6 1TX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC569584,SUPHI PROPERTIES LTD,EH4 3LT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17287321,EMOVERE LIMITED,B30 3JN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+00576011,REPPAC PIPES LIMITED,EC4A 3AD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07027567,24X7 (STAFFORDSHIRE) LIMITED,CM6 2JN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13506602,GOZNEY + CO LIMITED,SO41 6DH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14995256,CLOVER GROUP NORTH EAST LTD,TS3 7LU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12983131,LEAWAY RELOCATION LTD,E16 2DQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08918285,FIRST STEPS ENTERPRISE LIMITED,L1 0AB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17348345,OLIVE & OAK CLEANING LTD,WC1N 3AX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+02939196,CONTAINER APPLICATIONS INTERNATIONAL (U.K.) LIMITED,CM14 4HG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12195222,FOUNDRY FOUR LIMITED,IG8 8HD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+02280828,THE GABLES (KETTERING) RESIDENTS MANAGEMENT LIMITED,PE8 5AU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+03963919,ACORN PARTITIONS & STORAGE SYSTEMS LIMITED,LN6 3TA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14263294,BREAD & CHEESE (BENFLEET) LIMITED,SS9 2UJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09089517,NUMERICA CONSULTANTS LIMITED,CR2 9JR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17520282,KK MEDICAL CONSULTANCY LTD,DA12 1EY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13135492,ABJAD TEACH LIMITED,KT2 5BG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10637224,THE LAUGHING GULL DIRECT LTD,OL16 3NJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC183235,PEARSONS OF DUNS LIMITED,TD11 3EL,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15682069,ASSISTIFY ADMIN TRANQUILITY LTD,RG24 9ZW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SO301988,THE WALKER AND DYER PARTNERSHIP LLP,EH9 1SR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07592906,DP3 TECHNOLOGY LTD,DL1 2YZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17167052,THE THREE HORSESHOES @ WHEAT HILL LIMITED,SY8 2EH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+03937313,KADANT PAAL LIMITED,DE55 7RQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17397052,OKENTO HOLDINGS UK LTD,WC1N 3AX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13278183,BELIEVE DEVELOPMENTS LIMITED,SR7 7TT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17458374,MCCREADY NORTH EAST PROPERTY LTD,W6 0NB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC564845,BARBER HOUSE LIMITED,PA3 2JN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+NI740994,MCCALL FOODS LTD,BT70 1SX,True,EORI Registry (UK/EU),,,"Northern Ireland (BT postcode) - XI EORI exists if trading with EU, but EU EOS portal only supports reverse lookup (by EORI number, not company name)."
+OC460296,OXX III GP LLP,W1W 6BP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08265831,ELECTRA PROPERTY MANAGEMENT LTD,ST3 5XZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+06782871,NEGOTIATE AND FIND LIMITED,CH1 1SD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10332609,MONOKROME MUSIC LIMITED,BA11 3LH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15539221,JSS PROPERTY SOLUTIONS LIMITED,WF4 4AN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13476930,PARKASH PROPERTY LTD,B98 0NR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10666835,CHANCELLOR CREATIVE LIMITED,WD23 1EE,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16498760,JOSS MORAY LIMITED,LE4 9HA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16949379,ARCHE LIVING LIMITED,W2 2QN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC660014,STYLES AHEAD (CD) LIMITED,DG6 4JB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16479306,CREM BUSINESS SOLUTIONS LTD,N1 7GU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16928150,BARE GLINT LTD,RH10 1HQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14398900,LONDON DEVELOPMENTS (DAGENHAM) LIMITED,E14 9NN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12383534,FITZGERALD LONDON REAL ESTATE LIMITED,E16 2PZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12673153,CUBIC STORAGE LIMITED,BN5 9UW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15357437,SNS CARE LTD,B11 3LR,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15272476,KAMILA ZAK CAREER ADVISOR LIMITED,LE4 9LJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC389786,FDK COACHING LIMITED,EH10 5LZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09469482,RUFF CUT FILMS LIMITED,LN1 1HH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14599162,MDDW LIMITED,SK12 1TF,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13498211,COLLECTIVE CARS LIMITED,CM13 1AB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16897928,WITHEYS LTD,BA14 7DJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13885784,1ST NRG LTD,GU31 5RB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17202759,TIMSBURY CHILDCARE LIMITED,BA2 0JX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17000139,IN CARRIERS LTD,WV4 5HB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+03482581,JOHN GUEST RACING LIMITED,SL6 6PT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11834321,60 HILLREACH LIMITED,SE18 6SS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15155171,CR TECH SOLUTIONS LTD,N1 1RG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16841566,REBAMZ GLOBAL LIMITED,SO15 2HW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+06935235,SERENDIPITY (DEVON) LTD,EX8 1DW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11428377,DENT TECH AUTOMOTIVE LIMITED,NN18 9AS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+04227839,THATCHAM REGISTRARS LIMITED,RG19 3JG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11383217,YOURDOR LIMITED,NN8 4EX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15895840,INU GROUP LTD,LS1 2HL,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10152825,EDMAN CONSULTING LIMITED,BN41 1AX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08998676,ONEVAST LIMITED,SN14 0WT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09881109,REYAM HOLDINGS LIMITED,GL51 6TQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16184906,JULIPER LIMITED,N1 7GU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17258076,AB CLEARANCE & PROPERTY SERVICES LTD,DN16 3JQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC619161,JASON PROTHEROE LTD,IV36 3XJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+03567704,HMD HEALTHCARE LIMITED,CV31 1XT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+05518663,CAIN MEDICAL LIMITED,PE27 5AF,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08722725,GREENS DEVELOPMENTS LIMITED,PE30 5DD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16249846,H25 REAL ESTATE LIMITED,E1 7LE,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11852471,KARACCOUNTS LTD,WC2H 9JQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+NI685794,MAGHERAFELT BES LTD,BT27 4AE,True,EORI Registry (UK/EU),,,"Northern Ireland (BT postcode) - XI EORI exists if trading with EU, but EU EOS portal only supports reverse lookup (by EORI number, not company name)."
+15860480,GOLDCORP LIMITED,WD25 7GS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16897961,NVW DIGITAL LTD,IG9 5RD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11209849,ENVIROMIX (CHESTER) LTD,CH5 2QJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17421905,AGM VEHICLE SERVICES LTD,WC1N 3AX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11393485,KESWICK BREWERY LIMITED,CA11 8ST,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16943504,IVS ASSETS LIMITED,GU24 8AD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14501755,NESE LTD,SE27 0DN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07145098,RJ TAYLOR DECORATION LIMITED,CV8 1LY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17317140,EXCLORYN SERVICE SCOPE LTD,HR5 3DJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11041522,TRINITY CRABWALL LIMITED,HA1 2AX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14386753,REVISIO MARINE CONTROL LTD,NP20 5WJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09996674,DESIGN LAB SOLUTIONS LIMITED,GU7 2RQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07707077,DW IT CONSULTANCY LIMITED,LU5 5FP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10575843,B&R AIR CONDITIONING SALES & SERVICE LTD,AL3 5QT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13150322,S&A PORTFOLIO LTD,WS2 8ET,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12889302,PRIMA-LANDSCAPES LTD,WA2 7LP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17505332,HOMEFRONT LEGAL LIMITED,B78 3XD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09980126,RITESTONE CONSTRUCTION LIMITED,NP20 4PB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08804562,JAROSE INTERIORS LIMITED,LS27 0BN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+04932286,ORBITAL GLOBAL GROUP LIMITED,IP14 5BT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08217194,CHELSEA OBSTETRICS LIMITED,HA5 5PW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10490115,HOWARD BANKS CARS LTD,CM7 5JJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16774931,JV ARTS LTD,UB7 9DS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15824621,JSB LINGERIE LIMITED,BL1 4BY,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+14657035,VLADCLAD LTD,CO3 9EA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15109390,ATOMIC AUDIO LTD,NE61 3EZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16682983,ETHICS INTELLIGENCE LTD,OX16 1GW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+15614105,TOP BOYS DESIGNER BASEMENT LTD,B72 1AU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12476172,ANDERSON GRIFFIN LIMITED,GL50 1QB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC896929,CLERMONT ESTATES LIMITED,DD1 5EU,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12490021,ONE GROUP BUILDING CONSTRUCTION LTD,UB8 2FX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08942695,SP LAW INCORPORATING MARTIN ADAMS & MCCOLL LTD,NN3 9UF,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10864230,BRITALIA DOORS LIMITED,CF64 5RZ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17513056,SPOTLESS911 CLEANERS LIMITED,PO1 1QW,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12724386,EFE EVENTS & CONSULTANCY LIMITED,N14 6HA,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17346323,AESTHETICALLY FLAWLESS LTD,L20 7AP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10253567,MILL LANE HOMES BUCKLEY LTD,CH7 2BN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+03865854,CAREPROGRESS LIMITED,WD6 1JN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07609350,CITY PM LONDON LTD,IG9 5TT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16723287,GOLDEN HORSE COFFEE LTD,EN11 8UB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+17393552,TMS FLOORING LIMITED,PE6 8EB,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16857774,ELENA BEAUTY LTD,S1 4PH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+SC609002,AIRTH CATERERS LTD,FK2 8PN,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08944875,CALDERSTONES LOGISTICS LTD,LE5 0BT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+06812319,DOXAGATE LIMITED,MK5 7FT,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+06137683,GUEST PLUMBING HEATING & ELECTRICAL LIMITED,S75 3SP,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+08925012,ANGULUS PHARMA LIMITED,EC1V 2NX,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10319576,SPR CONTRACTS LTD,BA12 8HS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+07203781,ARABICA ESPRESSO SERVICES LIMITED,HP3 9RD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+OC318503,COLIN BUCKLE & CO. LLP,HA7 1JS,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+11990351,EUPHORIA GLOBAL LIMITED,MK12 5SG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+13779181,CHIEF PROPERTY DEVELOPMENTS LIMITED,SA67 8JQ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+16087015,TRADE STAN LTD,HR5 3DJ,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+09618039,CONTEXT RECRUITMENT LIMITED,SO23 9EH,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+12951295,GO FRESH FOODS LTD,SW17 7TG,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.
+10305698,SHAHRZAD HAIR SERVICES LTD,W1G 8JD,False,EORI Registry (UK/EU),,,GB company - post-Brexit UK EORI registry has no public forward-search API by name.

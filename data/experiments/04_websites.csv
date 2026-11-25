@@ -1,0 +1,251 @@
+CompanyNumber,CompanyName,Source,Discovered_Website,Candidate_VAT,All_Candidate_VATs,PDF_Links_Found,HMRC_Status,HMRC_Registered_Name,Notes
+16000526,THE PRESS HOUSE EXE LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+14373639,QUANTCOG LTD.,Company Website Scraping,https://www.quantcog.ai,,,,,,DDGS Search | Scraped OK (0 subpages checked)
+07068024,CAPITAL CONTRACT PLUMBING LIMITED,Company Website Scraping,https://www.capitalcontractplumbing.co.uk,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+12037043,ESCAPE BEAUTY AND WELLNESS LTD,Company Website Scraping,,,,,,,Not Found
+11162289,AY CONSULTANCY LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+15690424,AUSTIN BANDA PROPERTIES LTD,Company Website Scraping,,,,,,,Not Found
+09020915,ELVATECH LTD,Company Website Scraping,https://elvatech.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+17184541,TPC CLEANING LTD,Company Website Scraping,https://www.tpccleaningservices.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+OC451367,A LA MANO - L'ECOLE DES CREATIFS LLP,Company Website Scraping,,,,,,,Not Found
+15854402,WITH KIN LIMITED,Company Website Scraping,https://withkin.co.uk,358798034,358798034,,NO_API_TOKEN,,DNS Heuristic | Scraped OK (3 subpages checked)
+16692303,BIG BARN MEDIA GROUP LIMITED,Company Website Scraping,,,,,,,Not Found
+03968297,ELDAN DEVELOPMENTS LIMITED,Company Website Scraping,,,,,,,Not Found
+03934283,LEASING.COM GROUP LTD,Company Website Scraping,https://leasing.com,,,,,,DDGS Search | HTTP 403
+17032721,YULIN LTD,Company Website Scraping,https://yulin.co.uk,,,,,,DNS Heuristic | Scrape error: SSLError
+08480764,CAPSULAR MEDIA LTD,Company Website Scraping,https://capsularmedia.com,,,,,,DNS Heuristic | HTTP 404
+05869498,THE CRICKETERS FREEHOLD LIMITED,Company Website Scraping,,,,,,,Not Found
+13780490,NK STORES LIMITED,Company Website Scraping,https://gbcomp.p-o.co.uk,,,,,,DDGS Search | Scrape error: ReadTimeout
+13414295,TIC AND TOW RECOVERY LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+10784651,PROPERTIES WORK LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+14354994,MECCANICO DEVELOPMENTS LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+11927854,CRH CARPENTRY & BUILDING LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+03266507,PROXCOM LIMITED,Company Website Scraping,https://proxcom.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+10729838,A DELE FOOD & WINE LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+17454251,SUMARA HOUSE LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+08839214,CROWN CARE V LIMITED,Company Website Scraping,,,,,,,Not Found
+16669889,GW BUILDING CONSULTANCY LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+05050422,GOLOK CONSTRUCTION LIMITED,Company Website Scraping,http://www.golok.co.uk,905856406,905856406,,NO_API_TOKEN,,DDGS Search | Scraped OK (0 subpages checked)
+14382242,FORTRESS CAPITAL LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+NI068506,ABAC (NI) LTD,Company Website Scraping,https://www.abacni.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16931574,OFF THE GRID BEAUTY STUDIO LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+12452573,SUSSEX REAL ESTATE LIMITED,Company Website Scraping,https://sussexrealestate.com,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+15363632,8 NILE HOUSE LTD,Company Website Scraping,,,,,,,Not Found
+17035160,ALLITO DEVELOPMENTS LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+12677013,ASW BRICKWORK LTD,Company Website Scraping,http://aswscaffoldingltd.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+09864774,POST APPAREL LIMITED,Company Website Scraping,https://www.bing.com,,,,,,DDGS Search | Scraped OK (0 subpages checked)
+14210696,BEN AND CHRIS LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+08525365,UNITED SOURCING LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+14549835,M C SHOTS LTD,Company Website Scraping,,,,,,,Not Found
+09112577,HOORAY MACHINERY LIMITED,Company Website Scraping,https://us1574180611xtxk.trustpass.alibaba.com,,,,,,DDGS Search | Scraped OK (0 subpages checked)
+16466474,COLLINS RESIDENTIAL SUPPORT LTD,Company Website Scraping,,,,,,,Not Found
+08320064,LOCKING PHARMACY LTD,Company Website Scraping,https://lockingpharmacy.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+16607796,ABSTERGO REAL ESTATE LIMITED,Company Website Scraping,https://www.companypulse.co.uk,132978001,132978001,,NO_API_TOKEN,,DDGS Search | Scraped OK (3 subpages checked)
+13781081,TLR1 (ALLEN HOUSE) LIMITED,Company Website Scraping,,,,,,,Not Found
+08635558,GRANGE ASSOCIATES (UK) LTD,Company Website Scraping,,,,,,,Not Found
+16160225,URGENTIS LTD,Company Website Scraping,https://urgentis.co.uk,,,,,,DNS Heuristic | Scraped OK (3 subpages checked)
+SO306307,ACTIVE GP FP LLP,Company Website Scraping,,,,,,,Not Found
+07486338,PIER HEAD TRANSFORMATIONAL SOLUTIONS LTD,Company Website Scraping,https://www.pappers.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+04750086,PROVINCIAL GARAGE (STARBECK) LIMITED,Company Website Scraping,,,,,,,Not Found
+04517071,A2B TAXIS (TRURO) LIMITED,Company Website Scraping,https://a2btaxistruro.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+07354344,NEW VISION SIGNS & GRAPHICS LIMITED,Company Website Scraping,,,,,,,Not Found
+17449590,ROCHDALE MOT & AUTOCARE LTD,Company Website Scraping,https://www.motscout.co.uk,,,,,,DDGS Search | HTTP 403
+10388322,SILKS ESTATES (YORKSHIRE) LTD,Company Website Scraping,https://www.companypulse.co.uk,132978001,132978001,,NO_API_TOKEN,,DDGS Search | Scraped OK (3 subpages checked)
+17050952,CARDIFF J4L LTD,Company Website Scraping,https://scoriff.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+10466856,1ST AIRPORT TAXIS LIMITED,Company Website Scraping,https://1stairporttaxis.co.uk,449038674,449038674,,NO_API_TOKEN,,DNS Heuristic | Scraped OK (3 subpages checked)
+13814317,FLMG-MEDICAL LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+08962441,NME DETAILING LIMITED,Company Website Scraping,https://nmedetailing.com,,,,,,DNS Heuristic | Scraped OK (2 subpages checked)
+00601292,H.P. COOPER (FARMS) LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16672213,THE NEXUS ENGINE LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+17240730,MAINMAN LIMITED,Company Website Scraping,https://mainmanhub.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+SC352018,HUTCHESON FINANCIAL SERVICES LIMITED,Company Website Scraping,https://www.bizseek.co.uk,,,,,,DDGS Search | HTTP 403
+17222181,CURLEW ADVISORY LIMITED,Company Website Scraping,https://curlewadvisory.com,,,,,,DNS Heuristic | Scraped OK (2 subpages checked)
+NI602745,MC BRIDE RETAIL SCAFFOG LIMITED,Company Website Scraping,,,,,,,Not Found
+17537528,MITHRIL GROUP LTD,Company Website Scraping,https://www.secret-bases.co.uk,,,,,,DDGS Search | HTTP 403
+02966601,ARBLASTER & CLARKE WINE TOURS LIMITED,Company Website Scraping,,,,,,,Not Found
+14246301,PLEO HEALTHCARE LTD,Company Website Scraping,https://pleohealthcare.co.uk,,,,,,DNS Heuristic | Scraped OK (3 subpages checked)
+17345593,CNJ TOOTING LTD,Company Website Scraping,,,,,,,Not Found
+15620805,CODE LOGISTIC TECH LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+16847523,D EDWARDS CONSULTANCY LIMITED,Company Website Scraping,https://www.companypulse.co.uk,132978001,132978001,,NO_API_TOKEN,,DDGS Search | Scraped OK (3 subpages checked)
+13392017,JUST FRESH JUICE LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+08882553,TM LEISURE (MANCHESTER) LTD,Company Website Scraping,https://www.companypulse.co.uk,132978001,132978001,,NO_API_TOKEN,,DDGS Search | Scraped OK (3 subpages checked)
+16634265,BETTER HOLD CO LIMITED,Company Website Scraping,https://www.better.co,434232034,434232034,,NO_API_TOKEN,,DDGS Search | Scraped OK (3 subpages checked)
+04692299,21 HANSLER ROAD LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+16275957,MJ AUTOS LONDON LTD,Company Website Scraping,,,,,,,Not Found
+05645331,KINGSTEIGNTON SPRINGWATER LIMITED,Company Website Scraping,,,,,,,Not Found
+15888189,LEHOPE PROFESSIONALS LIMITED,Company Website Scraping,,,,,,,Not Found
+15620676,PEERMENT LTD,Company Website Scraping,https://peerment.co.uk,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+14022431,IGOR MORITZ LIMITED,Company Website Scraping,https://www.igormoritz.com,,,,,,DDGS Search | Scraped OK (0 subpages checked)
+08238972,ANAGAG LTD,Company Website Scraping,https://ukbizdb.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+08948738,STONEGATE PUB COMPANY FINANCING LIMITED,Company Website Scraping,,,,,,,Not Found
+09329472,DAWN SOLICITORS LTD,Company Website Scraping,https://dawnsolicitors.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16983538,KIN ADVISORY LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+11966668,HIGHBAR FITNESS LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+16644939,PLSR MEDIA LTD,Company Website Scraping,,,,,,,Not Found
+SC685785,LCM CONSULTANTS LIMITED,Company Website Scraping,https://lcmconsultants.co.uk,,,,,,DNS Heuristic | Scrape error: SSLError
+05078503,PERUGIAN LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16857079,STEVENS GROUP HOLDINGS LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+NI735933,BABIL RESTAURANT LTD,Company Website Scraping,https://babilrestaurant.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+17000665,STRATICORE LTD,Company Website Scraping,https://bringo.co.uk,477815250,477815250,,NO_API_TOKEN,,DDGS Search | Scraped OK (3 subpages checked)
+14664573,P&T ESTATES LIMITED,Company Website Scraping,,,,,,,Not Found
+11245745,ACCESS ATTICS LTD,Company Website Scraping,https://accessattics.co.uk,,,,,,DNS Heuristic | Scrape error: ConnectionError
+04782350,J HAWORTH LIMITED,Company Website Scraping,https://jhaworth.com,,,,,,DNS Heuristic | Scrape error: SSLError
+13476720,LSKEFI LIMITED,Company Website Scraping,,,,,,,Not Found
+05393073,ARQIVA NO 10 LIMITED,Company Website Scraping,https://www.ukpostcodecheck.com,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+13770509,UNIQUEFIT LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+13538123,TRADE SECRET STOCK CARE LTD,Company Website Scraping,https://tradesecretstockcare.com,,,,,,DNS Heuristic | Scraped OK (3 subpages checked)
+06432108,MITSUI E&P MOZAMBIQUE AREA 1 LIMITED,Company Website Scraping,,,,,,,Not Found
+13300581,PROVANCE PROPERTY LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+13098834,BERWICK PROPERTIES LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+11506874,EDWARDIAN RESIDENTIALS LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+16590673,JFFAM LIMITED,Company Website Scraping,,,,,,,Not Found
+17011731,A NEW DAWN CELEBRATIONS LIMITED,Company Website Scraping,https://b2bhint.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+15240297,CAMBRIDGE CARDIOVASCULAR CLINIC LTD,Company Website Scraping,https://camcpc.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+01073861,NIGHTINGALE PRESS LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16446594,TNS CONSENTRA LTD,Company Website Scraping,https://gbcomp.p-o.co.uk,,,,,,DDGS Search | Scrape error: ReadTimeout
+15623719,PRIORY 26 LTD,Company Website Scraping,,,,,,,Not Found
+14152769,UTD DEVELOPMENTS LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+15239013,MARGATE PROPERTIES LIMITED,Company Website Scraping,https://margateproperties.com,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+17080702,KIROOS LTD,Company Website Scraping,http://kiroos.org,,,,,,DDGS Search | Scraped OK (0 subpages checked)
+11520210,L R HAULAGE LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+13637234,YOUSTER INSTALLATIONS LTD,Company Website Scraping,,,,,,,Not Found
+10922899,LSAS PROPERTIES LIMITED,Company Website Scraping,https://britishlei.co.uk,,,,,,DDGS Search | HTTP 403
+05354108,USEGIS LIMITED,Company Website Scraping,https://usegis.co.uk,,,,,,DNS Heuristic | Scraped OK (1 subpages checked)
+17100804,JIMMYZ BARBERS LTD,Company Website Scraping,https://slough.cylex-uk.co.uk,,,,,,DDGS Search | HTTP 403
+14410126,L.E.H HOLDINGS LTD.,Company Website Scraping,https://www.pappers.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16656243,HARKLI LTD,Company Website Scraping,https://gbcomp.p-o.co.uk,,,,,,DDGS Search | Scrape error: ConnectionError
+01950105,01950105 LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16550639,BICE & BIRCH LIMITED,Company Website Scraping,https://www.biceandbirch.com,,,,,,DDGS Search | Scraped OK (0 subpages checked)
+15859435,NORTHUMBERLAND SAFETY SOLUTIONS LTD,Company Website Scraping,https://northumberlandsafetysolutions.co.uk,,,,,,DNS Heuristic | Scraped OK (3 subpages checked)
+12722874,ELLROSE ASSETS LIMITED,Company Website Scraping,,,,,,,Not Found
+SC569584,SUPHI PROPERTIES LTD,Company Website Scraping,,,,,,,Not Found
+17287321,EMOVERE LIMITED,Company Website Scraping,https://emovere.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+00576011,REPPAC PIPES LIMITED,Company Website Scraping,https://scoriff.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+07027567,24X7 (STAFFORDSHIRE) LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+13506602,GOZNEY + CO LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+14995256,CLOVER GROUP NORTH EAST LTD,Company Website Scraping,,,,,,,Not Found
+12983131,LEAWAY RELOCATION LTD,Company Website Scraping,https://scoriff.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+17348345,OLIVE & OAK CLEANING LTD,Company Website Scraping,,,,,,,Not Found
+08918285,FIRST STEPS ENTERPRISE LIMITED,Company Website Scraping,https://firststepsenterprise.co.uk,,,,,,DNS Heuristic | Scraped OK (3 subpages checked)
+12195222,FOUNDRY FOUR LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+02280828,THE GABLES (KETTERING) RESIDENTS MANAGEMENT LIMITED,Company Website Scraping,,,,,,,Not Found
+03963919,ACORN PARTITIONS & STORAGE SYSTEMS LIMITED,Company Website Scraping,https://www.gbrbusiness.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+14263294,BREAD & CHEESE (BENFLEET) LIMITED,Company Website Scraping,,,,,,,Not Found
+09089517,NUMERICA CONSULTANTS LIMITED,Company Website Scraping,,,,,,,Not Found
+02939196,CONTAINER APPLICATIONS INTERNATIONAL (U.K.) LIMITED,Company Website Scraping,https://www.ceginformacio.hu,,,,,,DDGS Search | Scraped OK (0 subpages checked)
+17520282,KK MEDICAL CONSULTANCY LTD,Company Website Scraping,,,,,,,Not Found
+13135492,ABJAD TEACH LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+10637224,THE LAUGHING GULL DIRECT LTD,Company Website Scraping,,,,,,,Not Found
+15682069,ASSISTIFY ADMIN TRANQUILITY LTD,Company Website Scraping,,,,,,,Not Found
+SC183235,PEARSONS OF DUNS LIMITED,Company Website Scraping,https://pearsonsofduns.co.uk,,,https://pearsonsofduns.co.uk/pub/media/wysiwyg/POD_Credit_Form_2021.pdf,,,DNS Heuristic | Scraped OK (3 subpages checked)
+SO301988,THE WALKER AND DYER PARTNERSHIP LLP,Company Website Scraping,https://open.probedigital.co.uk,,,,,,DDGS Search | HTTP 429
+17167052,THE THREE HORSESHOES @ WHEAT HILL LIMITED,Company Website Scraping,https://www.threehorseshoeswheathill.co.uk,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+13278183,BELIEVE DEVELOPMENTS LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+07592906,DP3 TECHNOLOGY LTD,Company Website Scraping,https://dp3technology.co.uk,,,,,,DNS Heuristic | Scrape error: ConnectTimeout
+03937313,KADANT PAAL LIMITED,Company Website Scraping,https://kadantpaal.co.uk,,,,,,DNS Heuristic | Scrape error: TooManyRedirects
+17458374,MCCREADY NORTH EAST PROPERTY LTD,Company Website Scraping,,,,,,,Not Found
+SC564845,BARBER HOUSE LIMITED,Company Website Scraping,https://www.cybo.com,,,,,,DDGS Search | HTTP 403
+NI740994,MCCALL FOODS LTD,Company Website Scraping,https://www.doogal.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+OC460296,OXX III GP LLP,Company Website Scraping,,,,,,,Not Found
+08265831,ELECTRA PROPERTY MANAGEMENT LTD,Company Website Scraping,,,,,,,Not Found
+06782871,NEGOTIATE AND FIND LIMITED,Company Website Scraping,,,,,,,Not Found
+17397052,OKENTO HOLDINGS UK LTD,Company Website Scraping,https://gbcomp.p-o.co.uk,,,,,,DDGS Search | Scrape error: ReadTimeout
+10332609,MONOKROME MUSIC LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+15539221,JSS PROPERTY SOLUTIONS LIMITED,Company Website Scraping,,,,,,,Not Found
+13476930,PARKASH PROPERTY LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+10666835,CHANCELLOR CREATIVE LIMITED,Company Website Scraping,https://companieshub.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16498760,JOSS MORAY LIMITED,Company Website Scraping,,,,,,,Not Found
+16949379,ARCHE LIVING LIMITED,Company Website Scraping,https://archeliving.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+SC660014,STYLES AHEAD (CD) LIMITED,Company Website Scraping,,,,,,,Not Found
+16479306,CREM BUSINESS SOLUTIONS LTD,Company Website Scraping,https://www.crembusinesssolutions.com,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+16928150,BARE GLINT LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+14398900,LONDON DEVELOPMENTS (DAGENHAM) LIMITED,Company Website Scraping,,,,,,,Not Found
+12383534,FITZGERALD LONDON REAL ESTATE LIMITED,Company Website Scraping,,,,,,,Not Found
+12673153,CUBIC STORAGE LIMITED,Company Website Scraping,https://cubicstorage.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+15272476,KAMILA ZAK CAREER ADVISOR LIMITED,Company Website Scraping,,,,,,,Not Found
+SC389786,FDK COACHING LIMITED,Company Website Scraping,https://www.northdata.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+09469482,RUFF CUT FILMS LIMITED,Company Website Scraping,https://ruffcutfilms.co.uk,,,,,,DNS Heuristic | Scrape error: SSLError
+14599162,MDDW LIMITED,Company Website Scraping,https://mddw.com,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+15357437,SNS CARE LTD,Company Website Scraping,https://snscareltd.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16897928,WITHEYS LTD,Company Website Scraping,https://witheys.co.uk,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+13498211,COLLECTIVE CARS LIMITED,Company Website Scraping,https://collectivecars.co.uk,,,,,,DNS Heuristic | Scraped OK (3 subpages checked)
+13885784,1ST NRG LTD,Company Website Scraping,https://1stnrg.co.uk,,,,,,DNS Heuristic | HTTP 404
+17202759,TIMSBURY CHILDCARE LIMITED,Company Website Scraping,https://www.aboutearlyyears.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+17000139,IN CARRIERS LTD,Company Website Scraping,,,,,,,Not Found
+11834321,60 HILLREACH LIMITED,Company Website Scraping,https://www.bricksandlogic.co.uk,,,,,,DDGS Search | HTTP 403
+16841566,REBAMZ GLOBAL LIMITED,Company Website Scraping,,,,,,,Not Found
+06935235,SERENDIPITY (DEVON) LTD,Company Website Scraping,https://www.serendipitydevon.com,,,https://www.serendipitydevon.com/documents/Correspondence-March-2023.pdf;https://www.serendipitydevon.com/documents/PACAC-Letter-August-2021.pdf;https://www.serendipitydevon.com/documents/serendipity-independent-report-1.pdf;https://www.serendipitydevon.com/documents/serendipity-independent-report-2.pdf,,,DDGS Search | Scraped OK (3 subpages checked)
+11428377,DENT TECH AUTOMOTIVE LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+04227839,THATCHAM REGISTRARS LIMITED,Company Website Scraping,,,,,,,Not Found
+15155171,CR TECH SOLUTIONS LTD,Company Website Scraping,https://gbcomp.p-o.co.uk,,,,,,DDGS Search | Scrape error: ConnectionError
+11383217,YOURDOR LIMITED,Company Website Scraping,,,,,,,Not Found
+15895840,INU GROUP LTD,Company Website Scraping,https://inugroup.com,,,,,,DNS Heuristic | HTTP 403
+03482581,JOHN GUEST RACING LIMITED,Company Website Scraping,https://johnguestracing.co.uk,,,,,,DNS Heuristic | Scrape error: ConnectTimeout
+10152825,EDMAN CONSULTING LIMITED,Company Website Scraping,https://edmanconsulting.com,,,,,,DNS Heuristic | Scraped OK (3 subpages checked)
+08998676,ONEVAST LIMITED,Company Website Scraping,https://onevast.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+09881109,REYAM HOLDINGS LIMITED,Company Website Scraping,,,,,,,Not Found
+16184906,JULIPER LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+SC619161,JASON PROTHEROE LTD,Company Website Scraping,https://www.verif.com,,,,,,DDGS Search | HTTP 403
+17258076,AB CLEARANCE & PROPERTY SERVICES LTD,Company Website Scraping,https://www.checkatrade.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+03567704,HMD HEALTHCARE LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+05518663,CAIN MEDICAL LIMITED,Company Website Scraping,https://cainmedical.com,372862473,372862473,,NO_API_TOKEN,,DNS Heuristic | Scraped OK (0 subpages checked)
+08722725,GREENS DEVELOPMENTS LIMITED,Company Website Scraping,https://greensdevelopments.co.uk,,,,,,DNS Heuristic | Scrape error: SSLError
+16249846,H25 REAL ESTATE LIMITED,Company Website Scraping,https://www.h25realestate.com,,,,,,DDGS Search | Scrape error: SSLError
+NI685794,MAGHERAFELT BES LTD,Company Website Scraping,https://scoriff.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+15860480,GOLDCORP LIMITED,Company Website Scraping,https://goldcorp.co.uk,,,,,,DNS Heuristic | HTTP 403
+16897961,NVW DIGITAL LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+11852471,KARACCOUNTS LTD,Company Website Scraping,https://karaccounts.com,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+11209849,ENVIROMIX (CHESTER) LTD,Company Website Scraping,,,,,,,Not Found
+17421905,AGM VEHICLE SERVICES LTD,Company Website Scraping,https://agmvehicleservices.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+16943504,IVS ASSETS LIMITED,Company Website Scraping,,,,,,,Not Found
+14501755,NESE LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+07145098,RJ TAYLOR DECORATION LIMITED,Company Website Scraping,https://rjtaylordecoration.co.uk,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+11041522,TRINITY CRABWALL LIMITED,Company Website Scraping,,,,,,,Not Found
+09996674,DESIGN LAB SOLUTIONS LIMITED,Company Website Scraping,,,,,,,Not Found
+14386753,REVISIO MARINE CONTROL LTD,Company Website Scraping,https://www.pappers.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+07707077,DW IT CONSULTANCY LIMITED,Company Website Scraping,https://www.pappers.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+13150322,S&A PORTFOLIO LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+11393485,KESWICK BREWERY LIMITED,Company Website Scraping,https://www.keswickbrewery.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+10575843,B&R AIR CONDITIONING SALES & SERVICE LTD,Company Website Scraping,https://www.pappers.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+12889302,PRIMA-LANDSCAPES LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+17505332,HOMEFRONT LEGAL LIMITED,Company Website Scraping,https://planindex.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+17317140,EXCLORYN SERVICE SCOPE LTD,Company Website Scraping,https://exclorynservicescope.com,,,,,,DNS Heuristic | Scrape error: ConnectTimeout
+09980126,RITESTONE CONSTRUCTION LIMITED,Company Website Scraping,,,,,,,Not Found
+04932286,ORBITAL GLOBAL GROUP LIMITED,Company Website Scraping,https://www.bing.com,,,,,,DDGS Search | Scraped OK (0 subpages checked)
+08804562,JAROSE INTERIORS LIMITED,Company Website Scraping,https://www.chamberofcommerce.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+10490115,HOWARD BANKS CARS LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+08217194,CHELSEA OBSTETRICS LIMITED,Company Website Scraping,https://www.ukpostcodecheck.com,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+16774931,JV ARTS LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+15824621,JSB LINGERIE LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+14657035,VLADCLAD LTD,Company Website Scraping,,,,,,,Not Found
+15109390,ATOMIC AUDIO LTD,Company Website Scraping,https://scoriff.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16682983,ETHICS INTELLIGENCE LTD,Company Website Scraping,https://ethicsintelligence.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+15614105,TOP BOYS DESIGNER BASEMENT LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+12476172,ANDERSON GRIFFIN LIMITED,Company Website Scraping,https://andersongriffin.co.uk,,,,,,DNS Heuristic | Scrape error: SSLError
+SC896929,CLERMONT ESTATES LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+12490021,ONE GROUP BUILDING CONSTRUCTION LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+08942695,SP LAW INCORPORATING MARTIN ADAMS & MCCOLL LTD,Company Website Scraping,https://checkthecompany.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+10864230,BRITALIA DOORS LIMITED,Company Website Scraping,https://www.britaliadoors.co.uk,840382441,840382441,,NO_API_TOKEN,,DDGS Search | Scraped OK (3 subpages checked)
+17513056,SPOTLESS911 CLEANERS LIMITED,Company Website Scraping,,,,,,,Not Found
+12724386,EFE EVENTS & CONSULTANCY LIMITED,Company Website Scraping,https://bringo.co.uk,477815250,477815250,,NO_API_TOKEN,,DDGS Search | Scraped OK (3 subpages checked)
+17346323,AESTHETICALLY FLAWLESS LTD,Company Website Scraping,https://www.secret-bases.co.uk,,,,,,DDGS Search | HTTP 403
+10253567,MILL LANE HOMES BUCKLEY LTD,Company Website Scraping,,,,,,,Not Found
+03865854,CAREPROGRESS LIMITED,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+07609350,CITY PM LONDON LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16723287,GOLDEN HORSE COFFEE LTD,Company Website Scraping,https://goldenhorsecoffee.com,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+17393552,TMS FLOORING LIMITED,Company Website Scraping,https://tmflooringltd.co.uk,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+16857774,ELENA BEAUTY LTD,Company Website Scraping,https://elenabeauty.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+SC609002,AIRTH CATERERS LTD,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+08944875,CALDERSTONES LOGISTICS LTD,Company Website Scraping,,,,,,,Not Found
+06812319,DOXAGATE LIMITED,Company Website Scraping,https://www.locallife.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+06137683,GUEST PLUMBING HEATING & ELECTRICAL LIMITED,Company Website Scraping,,,,,,,Not Found
+08925012,ANGULUS PHARMA LIMITED,Company Website Scraping,https://anguluspharma.com,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+10319576,SPR CONTRACTS LTD,Company Website Scraping,https://sprcontracts.co.uk,378529937,378529937,,NO_API_TOKEN,,DNS Heuristic | Scraped OK (3 subpages checked)
+07203781,ARABICA ESPRESSO SERVICES LIMITED,Company Website Scraping,https://arabicaespressoservices.com,,,,,,DNS Heuristic | Scrape error: ReadTimeout
+OC318503,COLIN BUCKLE & CO. LLP,Company Website Scraping,,,,,,,Not Found
+11990351,EUPHORIA GLOBAL LIMITED,Company Website Scraping,https://euphoriaglobal.co.uk,,,,,,DNS Heuristic | Scraped OK (0 subpages checked)
+13779181,CHIEF PROPERTY DEVELOPMENTS LIMITED,Company Website Scraping,https://www.companiesintheuk.co.uk,,,,,,DDGS Search | Scraped OK (3 subpages checked)
+16087015,TRADE STAN LTD,Company Website Scraping,https://www.192.com,,,,,,DDGS Search | HTTP 403
+09618039,CONTEXT RECRUITMENT LIMITED,Company Website Scraping,https://contextrecruit.com,,,,,,DDGS Search | Scraped OK (2 subpages checked)
+12951295,GO FRESH FOODS LTD,Company Website Scraping,https://www.allinlondon.co.uk,,,,,,DDGS Search | HTTP 403
+10305698,SHAHRZAD HAIR SERVICES LTD,Company Website Scraping,,,,,,,Not Found
